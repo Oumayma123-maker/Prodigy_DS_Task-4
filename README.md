@@ -4,7 +4,7 @@ Task 4: Social Media Sentiment Analysis and Visualization 📊💬 :
 
 Overview :
 
-In this project, I analyzed sentiment patterns in social media data (primarily from Twitter 🐦). The goal was to understand public opinion and attitudes towards various topics and brands. Using sentiment analysis, I classified tweets into four sentiment groups: Positive 😊, Negative 😡, Neutral 😐, and Irrelevant 🤷‍♂️. The visualizations, including word clouds, helped derive insights into these sentiment patterns.
+In this project, I analyzed sentiment patterns in social media data (primarily from Twitter 🐦). The goal was to understand public opinion and attitudes towards various topics and brands. Using sentiment analysis, I classified tweets into four sentiment groups: Positive 😊, Negative 😡, Neutral 😐, and Irrelevant 🤷‍♂️.
 
 Objectives 🎯 :
 
