@@ -25,6 +25,7 @@ Removed duplicates and irrelevant content.
 Extracted relevant features from the tweets (e.g., topics and brands).
 
 Prepared the data for sentiment analysis by handling missing values and formatting text.
+
 3. Sentiment Analysis 🧠 :
 
 Used a sentiment analysis model to classify the tweets into categories: Positive 😊, Negative 😡, Neutral 😐, and Irrelevant 🤷‍♂️.
@@ -45,7 +46,7 @@ Created visualizations (bar charts 📊, pie charts 🥧, and word clouds ☁️
 
 WordClouds were used to highlight the most frequently mentioned words in each sentiment category, providing a visual representation of common themes and topics within the sentiments.
 
-Key visualizations:
+5. Key visualizations:
 
 Negative sentiment (😡) dominated for MaddenNFL.
 
